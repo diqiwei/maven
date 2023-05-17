@@ -1,0 +1,8 @@
+# 项目排除路径
+/demo-01-web/target/
+/demo-02-component/target/
+/demo-03-entity/target/
+/demo-04-util/target/
+/demo-05-environment/target/
+/demo-06-generate/target/
+/out/
